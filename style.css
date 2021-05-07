@@ -1,0 +1,41 @@
+footer {
+    padding: 20px;
+    background-color: #ECEDEE;
+}
+
+.wp-row {
+    margin: 100px 0 100px 0;
+}
+
+.assignment {
+    color: red;
+}
+
+#form-content {
+    display: none;
+}
+
+#form-alert {
+    display: none;
+}
+
+
+.nav nav-tabs {
+    overflow: hidden;
+}
+
+
+.nav nav-tabs button {
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 15px;
+}
+
+
+.tab-pane, .tab-pane active {
+    display: none;
+    border-top: none;
+}
